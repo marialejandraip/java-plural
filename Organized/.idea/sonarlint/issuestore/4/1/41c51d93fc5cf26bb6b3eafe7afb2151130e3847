@@ -1,0 +1,60 @@
+
+Q
+java:S1854"";Remove this useless assignment to local variable "result3".(ÆåŠâ
+Q
+java:S1854!";Remove this useless assignment to local variable "result2".(Ø³êÀ
+V
+java:S1854 ";Remove this useless assignment to local variable "result1".(ÁÊ´˜úÿÿÿÿ
+V
+java:S1854"@Remove this useless assignment to local variable "someOtherVar".(ÅÓÀì
+V
+java:S18549";Remove this useless assignment to local variable "results".(“îÕ×úÿÿÿÿ
+V
+java:S1854<";Remove this useless assignment to local variable "results".(È­Ùƒøÿÿÿÿ
+V
+java:S1854?";Remove this useless assignment to local variable "results".(¬÷Êÿÿÿÿÿ
+Q
+java:S1854C";Remove this useless assignment to local variable "results".(ŠÎµ
+Q
+java:S18544";Remove this useless assignment to local variable "results".(‹Ë å
+X
+java:S1854t"=Remove this useless assignment to local variable "otherVals".(ıôÌîÿÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ÍÍïõ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÓîûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™í—¼
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ëš§
+G
+java:S1481"1Remove this unused "someOtherVar" local variable.(ÅÓÀì
+V	java:S125"<This block of commented-out lines of code should be removed.(ÇÏÆæúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÌµÈûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¼®İŒùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ç…¸ªÿÿÿÿÿ
+G
+java:S1481 ",Remove this unused "result1" local variable.(ÁÊ´˜úÿÿÿÿ
+B
+java:S1481!",Remove this unused "result2" local variable.(Ø³êÀ
+B
+java:S1481"",Remove this unused "result3" local variable.(ÆåŠâ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(’÷¼íıÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(õ¹ÃÒ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(‘ªÖ 
+7
+java:S1116-"Remove this empty statement.(Åñ­õşÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(õ¹ÃÒ
+X	java:S1251"<This block of commented-out lines of code should be removed.(œûû›8ùê÷ãí/
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(±ìı¤
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ñ©âÚøÿÿÿÿ
+M	java:S106L"9Replace this use of System.out or System.err by a logger.(ğ÷†T
+Q	java:S125N"<This block of commented-out lines of code should be removed.(ùÂƒ
+Q	java:S125^"<This block of commented-out lines of code should be removed.(¨ıœø
+S	java:S106f"9Replace this use of System.out or System.err by a logger.(çšĞ€ÿÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106p"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+I
+java:S1481t".Remove this unused "otherVals" local variable.(ıôÌîÿÿÿÿÿ
+S	java:S106}"9Replace this use of System.out or System.err by a logger.(¿©ã‰ùÿÿÿÿ
+f	java:S117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¶ùî
+H
+java:S1199H"-Extract this nested code block into a method.(Î—­Šşÿÿÿÿ
